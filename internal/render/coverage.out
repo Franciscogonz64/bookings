@@ -1,0 +1,23 @@
+mode: set
+github.com/franciscogonz64/bookings/internal/render/renders.go:22.40,24.2 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:26.84,32.2 5 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:35.105,38.18 2 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:44.2,45.9 2 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:49.2,56.16 5 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:60.2,60.12 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:38.18,40.3 1 0
+github.com/franciscogonz64/bookings/internal/render/renders.go:40.8,42.3 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:45.9,47.3 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:56.16,59.3 2 0
+github.com/franciscogonz64/bookings/internal/render/renders.go:64.67,68.16 3 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:72.2,72.29 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:97.2,97.21 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:68.16,70.3 1 0
+github.com/franciscogonz64/bookings/internal/render/renders.go:72.29,76.17 3 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:80.3,81.17 2 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:85.3,85.23 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:93.3,93.21 1 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:76.17,78.4 1 0
+github.com/franciscogonz64/bookings/internal/render/renders.go:81.17,83.4 1 0
+github.com/franciscogonz64/bookings/internal/render/renders.go:85.23,87.18 2 1
+github.com/franciscogonz64/bookings/internal/render/renders.go:87.18,89.5 1 0
